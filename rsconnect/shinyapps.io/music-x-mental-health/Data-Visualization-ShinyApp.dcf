@@ -1,0 +1,14 @@
+name: Data-Visualization-ShinyApp
+title: Data-Visualization-ShinyApp
+username:
+account: music-x-mental-health
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8032909
+bundleId: 6730836
+url: https://music-x-mental-health.shinyapps.io/Data-Visualization-ShinyApp/
+when: 1673636946.37687
+lastSyncTime: 1673636946.37688
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: Rplot001.jpeg|Rplot002.jpeg|Rplot003.jpeg|Rplot004.jpeg|Rplot005.jpeg|Rplot006.jpeg|Rplot007.jpeg|Rplot008.jpeg
